@@ -17,6 +17,12 @@ header {
   background-color: black;
   color: white;
   padding: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.card1 h1 {
+  margin-bottom: 12px;
 }
 
 /*# sourceMappingURL=style.css.map */
